@@ -13,9 +13,11 @@ POST 1
    a. shared bank - resources
    a. a goal -
 1. mechanics
+   a. separation of concerns - tank, dps, heals
    a. tokenomics
-   a. rage quit - moloch
-   a. nouns fork -
+   a. autonomy -
+   1. rage quit - moloch
+   1. nouns fork -
 
 POST 2
 
